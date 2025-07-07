@@ -1,2 +1,1 @@
-# Car-with-obstacle-Avoidance
-This was my College Project in which I used Arduino Micrcocontroller for making an "BLUETOOTH CONTROL OBSTACLE AVODIANCE, HIGH LOWBEAM ROBOT CAR" where I use various peripherals like bluetooth module HC-05,L293D motor driver, Ultrasonic Sensor and GPS for implementing various features we could introduce to modern automobile industry. All peripherals are assembled and implemented at software level and Hardware level.
+
